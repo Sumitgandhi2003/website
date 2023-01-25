@@ -49,7 +49,8 @@ body{
     top: 5px;
 }
 .bottom-container a{
-    padding: 20px;
+    padding: 0px;
+    margin: 20px
     font-weight: lighter;
     color: #26a98b;
 }
